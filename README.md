@@ -1,5 +1,5 @@
 Embedded / Firmware Engineer focused on C/C++ drivers, hardware abstraction layers,
-and real-device validation. I work primarily with ESP32 and BlueNRG systems and
+and real-device validation. I work primarily with Arduino and STM32 systems and
 explore ML systems (Tiny LLMs, optimization) as side projects.
 
 ## Featured Projects
@@ -19,7 +19,7 @@ Mini transformer trained from scratch with CLPSO-based head fine-tuning experime
 👉 https://github.com/Jay2cop/Tiny_LLM
 
 ## Technical Focus
-- Embedded & Firmware: C, C++, ESP32, BlueNRG, SPI, I2C, DMA
+- Embedded & Firmware: C, C++, Arduino, STM32, SPI, I2C, DMA
 - Systems: HAL design, driver refactoring, UART debugging
 - ML: PyTorch, Tiny LLMs, optimization (CLPSO)
 
